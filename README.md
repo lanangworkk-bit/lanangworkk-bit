@@ -34,10 +34,3 @@ sisa semester.
 
 **Stack:** Python, Flask, SQLAlchemy, Alembic, PostgreSQL, Redis,
 Docker, Playwright
-
-## Repo lain
-
-- [focusguard-website](https://github.com/lanangworkk-bit/focusguard-website)
-  - website dengan JavaScript
-- [genre-finder](https://github.com/lanangworkk-bit/genre-finder)
-  - aplikasi PHP untuk mencari genre
