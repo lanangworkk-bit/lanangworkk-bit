@@ -37,7 +37,7 @@ Docker, Playwright
 
 ## Repo lain
 
-- [route-prediction-bali](https://github.com/lanangworkk-bit/route-prediction-bali)
-  - prediksi rute kendaraan untuk Bali (FastAPI + machine learning)
-- [cpp-games](https://github.com/lanangworkk-bit/cpp-games) - permainan
-  kecil dengan C++
+- [focusguard-website](https://github.com/lanangworkk-bit/focusguard-website)
+  - website dengan JavaScript
+- [genre-finder](https://github.com/lanangworkk-bit/genre-finder)
+  - aplikasi PHP untuk mencari genre
